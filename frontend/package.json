@@ -1,0 +1,27 @@
+{
+  "name": "opengemini-studio",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "tailwind-merge": "3.4.0",
+    "tailwindcss-animate": "1.0.7",
+    "vue": "^3.4.21",
+    "vue-i18n": "^9.14.5"
+  },
+  "devDependencies": {
+    "@types/node": "25.0.2",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "postcss": "8.5.6",
+    "tailwindcss": "^4.1.9",
+    "typescript": "^5.4.2",
+    "vite": "^5.1.6",
+    "vue-tsc": "^2.0.6"
+  }
+}
